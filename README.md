@@ -8,5 +8,8 @@ const loginInfo = {
 }
 ```
 
-Then run `npm start` and type the username you want to crawl. If the instagram link is *https://www.instagram.com/honghot_sinhvien/* the username will be **honghot_sinhvien**.
+Then run `npm start` and type the username you want to crawl.
+
+If the instagram link is *https://www.instagram.com/honghot_sinhvien/* the username will be **honghot_sinhvien**.
+
 Then you can look for the result in jsons folder.
